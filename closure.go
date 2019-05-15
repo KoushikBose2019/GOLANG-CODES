@@ -26,15 +26,4 @@ func main(){
    fmt.Println(nextNumber1())
    fmt.Println(nextNumber1())
 
-
-}
-
-
-
-
-
-
-
-
-
 }
