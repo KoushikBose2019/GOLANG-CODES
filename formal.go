@@ -15,15 +15,3 @@ func sum(a,b int)int{
 	fmt.Printf("value of b in sum()=%d\n",b);
 	return a+b;
 }
-
-
-
-
-
-
-
-
-
-
-	
-}
